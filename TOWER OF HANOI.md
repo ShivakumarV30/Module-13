@@ -32,8 +32,8 @@ Consider the names of the tower pegs as A, B, C. Get the number of disks value f
 ### PROGRAM  
 
 ```python
-#REGNO:-212222060224
-#Name:- SANTHOSH M J
+#REGNO:-212222060239
+#Name:- SHIVAKUMAR K V
 def TowerOfHanoi(n , source, destination, auxiliary):
 	
 	if(n>0):
