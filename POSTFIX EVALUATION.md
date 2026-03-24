@@ -32,8 +32,8 @@ To write a Python program to evaluate a user-given Postfix expression that conta
 ### PROGRAM
 
 ```python
-# REGNO:-212222060224
-# Name:- SANTHOSH M J
+# REGNO:-212222060239
+# Name:- SHIVAKUMAR K V
 OPERATORS=set(['*','+']) 
 def evaluate_postfix(expression):
     stack=[]
